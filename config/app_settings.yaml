@@ -1,0 +1,6 @@
+app:
+  name: messenger-chat-automation
+  verify_token: CHANGE_ME
+
+messenger:
+  graph_api_base_url: https://graph.facebook.com/v19.0
